@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Project 7: Cryptocurrency quote.
+## Project 7: News Searcher.
 This web app uses an API to fetch news depending on different categories and countries. It uses custom hooks and a css module to style some of the components.
 
 ## Available Scripts
